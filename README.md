@@ -6,3 +6,5 @@ This is the repository of the activity iii.
 
 - Added the basic structure to the html file.
 - Added the footer and header.
+- Added images for conent section.
+- Added content and menu.
